@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9789" started-at="2021-07-06T03:29:33Z" finished-at="2021-07-06T03:29:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9789" started-at="2021-07-06T03:29:33Z" finished-at="2021-07-06T03:29:43Z">
+      <class name="test.ValidateTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToValidateTest()[pri:0, instance:test.ValidateTest@4cc0edeb]" name="validUserShouldBeAbleToValidateTest" duration-ms="9755" started-at="2021-07-06T03:29:33Z" finished-at="2021-07-06T03:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToValidateTest -->
+      </class> <!-- test.ValidateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
